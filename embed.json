@@ -1,0 +1,15 @@
+{
+  "embeds": [
+    {
+      "title": "NS rijs stage",
+      "description": "https://www.ns.nl/rpx?ctx=arnu%7CfromStation%3D8400212%7CrequestedFromStation%3D8400212%7CtoStation%3D8400316%7CrequestedToStation%3D8400316%7CplannedFromTime%3D2026-02-11T08%3A15%3A00%2B01%3A00%7CplannedArrivalTime%3D2026-02-11T08%3A22%3A00%2B01%3A00%7CexcludeHighSpeedTrains%3Dfalse%7CsearchForAccessibleTrip%3Dfalse%7ClocalTrainsOnly%3Dfalse%7CtravelAssistance%3Dfalse%7CtripSummaryHash%3D285986519",
+      "image": {
+        "url": ""
+      },
+      "thumbnail": {
+        "url": "https://substackcdn.com/image/fetch/$s_!a8-P!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F02ef731e-d1f8-45d6-99d0-b4cdc1ce27c2_1200x1200.jpeg"
+      },
+      "color": 15844367
+    }
+  ]
+}
