@@ -1,8 +1,8 @@
 {
   "embeds": [
     {
-      "title": "Niksnaks data",
-      "description": "Licht Roze - #b99fb2\n\nPorsche 959 rood - #350214\n\nCode vijfhuizen - 251110",
+      "title": "Update!",
+      "description": "Er is een update geweest met de Niksnaks-Bot.\nAlle commands die je eerst kon gebruiken met het ! teken zijn nu te gebruiken met /\n\nCommands lijst: \n\n/ai\n/clear_channel\n/commands\n/embed\n/join\n/join_channel\n/leave\n/list\n/log\n/msg\n/play\n/porto\n/purge\n/react_role\n/say\n/servers\n/stop\n/wachtwoord",
       "color": 12165042
     }
   ]
