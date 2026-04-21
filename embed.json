@@ -1,8 +1,8 @@
 {
   "embeds": [
     {
-      "title": "Prompt 24u porto command",
-      "description": "In beta-bot.py, replace the hardcoded TARGET_CHANNEL_IDS list for the 24-hour porto feature with a dynamic, per-guild configuration system. Add two new admin-only slash commands:\n\n/set-porto <channel> — sets the text channel where that server's daily porto code will be posted.\n/stop-porto — disables the daily porto code for the current server.\nPersist the mapping of guild_id → channel_id to a JSON file (porto_channels.json), following the same pattern used for the existing log-channel system (load_porto_channels / save_porto_channels helpers, loaded in on_ready). Update send_code_to_target() to iterate over the stored channels instead of the hardcoded list. Keep the existing Dutch-language response style and the ephemeral=True replies consistent with the other admin commands.",
+      "title": "Update ",
+      "description": "1. Nieuwe Commands (Admin)\n\nBeschrijving: Commands om een porto kanaal te zetten of verwijderen\nDoelgroep: Admins\nFunctionaliteit:\n\nPorto kanaal instellen\nPorto kanaal verwijderen\n\n\n2. Update Niksnaks-Transfersite\n\nOnderdeel 1: Volledig nieuwe UI\nOnderdeel 2: Tijd voor link vervaldatum instellen\n\nMogelijkheid om vervaldatum in te stellen\nAutomatische verwerking van verlopen links",
       "color": 12165042
     }
   ]
