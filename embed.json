@@ -1,9 +1,9 @@
 {
   "embeds": [
     {
-      "title": "Update ",
-      "description": "1. Nieuwe Commands (Admin)\n\nBeschrijving: Commands om een porto kanaal te zetten of verwijderen\nDoelgroep: Admins\nFunctionaliteit:\n\nPorto kanaal instellen\nPorto kanaal verwijderen\n\n\n2. Update Niksnaks-Transfersite\n\nOnderdeel 1: Volledig nieuwe UI\nOnderdeel 2: Tijd voor link vervaldatum instellen\n\nMogelijkheid om vervaldatum in te stellen\nAutomatische verwerking van verlopen links",
-      "color": 12165042
+      "description": "Licht Roze - \"#b99fb2\"\n\nPorsche 959 rood - \"#350214\"\n\nCode vijfhuizen - \"251110\"",
+      "color": 12165042,
+      "title": "Niksnaks data"
     }
   ]
 }
